@@ -1,1 +1,1 @@
-# rsschool-cv.github.io
+https://ferrum96.github.io/rsschool-cv/cv
